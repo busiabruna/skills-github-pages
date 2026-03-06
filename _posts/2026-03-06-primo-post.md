@@ -1,5 +1,6 @@
 ---
-title: "3-MONTHS-IN-BELGIUM"
+layout: post
+title: "Hello everyone"
 date: 2026-03-06
 ---
 
